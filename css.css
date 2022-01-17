@@ -1,0 +1,295 @@
+*{
+    margin: 0%;
+    padding: 0%;
+}
+#ul123{
+    background-color: rgba(0, 0, 0, 0.068);
+    width: 230px;
+    overflow: hidden;
+    float: left;
+}
+.p123 .a123{
+    color: black;
+    height: 500px;
+    width: 100px;
+    padding: 30px 15px;
+    text-decoration: none;
+} 
+.p123:hover{
+    background-color: blue;
+} 
+.ht{
+    font-size: 20px;
+    padding-top: 15px;
+}
+#id100{
+    padding-right: 140px;
+    float: right;
+    width: 75.6%;
+}
+#u1{
+    list-style-type: none;
+    background-color: orange;
+    color: white;
+    overflow: hidden;
+}
+.p11{
+    float: left;
+}
+.p11:hover{
+    background-color: blue;
+}
+#ppp{
+    float: right;
+}
+
+.p11 .a122{
+    display: block;
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    color: white;
+}
+#html{
+    background-color: blue;
+}
+#h{
+    height: 100px;
+    padding-top: 30px;
+    padding-left: 40px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+#p1{
+    padding-top: 30px;
+    padding-left: 50px;
+}
+#h1{
+    height: 280px;
+    background-color: aquamarine;
+    border-radius: 5px;
+}
+.u2{
+    list-style-type: none;
+    display: block;
+}
+.u22{
+    background-color: darkgreen;
+    margin-right: 20px;
+    color: white;
+    border-radius: 5px;
+    display: block;
+}
+#nex{
+    padding-right: 50px;
+    float: right;
+    width: 10px;
+}
+#u3{
+    list-style-type: none;
+    
+}
+.p22{
+    clear: left;
+    border-radius: 5px;
+    margin: 15px;
+    color: white;
+}
+#p23{
+    background-color: #006400;
+}
+#p24{
+    background-color: black;
+}
+#p23:hover,#p24:hover{
+    background-color: blue;
+}
+.hr1{
+    margin: 15px;
+    color: white;
+}
+.pp1{
+    margin: 20px;
+}
+#pp2{
+    font-size: 40px;
+}
+#pp3{
+    font-size: 20px;
+}
+#ex1{
+    background-color: rgb(175, 156, 120);
+    height: 430px;
+    border-radius: 5px;
+}
+#ex11{
+    font-size: 30px;
+    height: 100px;
+    padding-top: 20px;
+    padding-left: 20px;
+}
+#co11{
+    padding-left: 60px;
+}
+#co1{
+    background-color: white;
+    border-radius: 5px;
+    margin-left: 20px;
+    width: 90%;
+    height: 230px;
+}
+#exa112 {
+    list-style-type: none;
+    background-color: #006400;
+    border-radius: 5px;
+    margin: 20px;
+}
+#exa112:hover ,#li11:hover{
+    background-color: blue;
+}
+#cli11{
+    font-size: 20px;
+    padding: 20px;
+}
+.p15{
+    font-size: 20px;
+    padding: 20px;
+}
+#li9{
+    margin-top: 60px;
+    margin-left: 10px;
+    list-style-type: none;
+}
+#li10 ,#li11{
+    background-color:rgb(77, 71, 71) ;
+    padding: 14px 16px;
+    border-radius: 5px;
+    text-decoration: none;
+    color: white;
+}
+#p17{
+    padding: 15px;
+}
+#div1{
+    height: 440px;
+    background-color: rgba(0, 0, 0, 0.568);
+    border-radius: 5px;
+}
+#p18{
+    font-size: 30px;
+    padding: 30px 15px;
+    color: white;
+}
+#div2{
+    background-color: white;
+    height: 320px;
+    margin: 0px 15px;
+    border-radius: 5px;
+}
+#p19{
+    font-size: 30px;
+    padding: 15px;
+}
+#p20{
+    padding: 15px;
+    font-size: 20px;
+}
+#div3{
+    height: 70px;
+    background-color: rgba(10, 165, 113, 0.74);
+    margin: 15px;
+    border-radius: 5px;
+}
+.p21{
+    display: inline;
+    font-size: 25px;
+    padding: 10px;
+}
+#p22{
+    display: inline;
+    background-color: white;
+}
+#exa112{
+    list-style-type: none;
+    background-color: #006400;
+    border-radius: 5px;
+    margin: 20px;
+}
+#a1{
+     float: right;
+     color: black;
+     font-size: 20px;
+     padding-top: 15px;
+     margin-right: 15px;
+}
+#p25{
+    font-size: 25px;
+    margin: 15px;
+}
+#p26{
+    margin: 15px;
+}
+#starthtml{
+    list-style-type: none;
+    background-color: orange;
+    border-radius: 5px;
+    margin: 15px;
+}
+#starthtml:hover{
+    background-color: blue;
+}
+#p27{
+    font-size: 25px;
+    margin: 15px;
+}
+#p28{
+    margin: 15px;
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 10px;
+}
+.grid-item{
+    background-color: rgba(88, 73, 78, 0.459);
+    height: 50px;
+    border-radius: 5px;
+    text-align: center;
+    padding-top: 15px;
+    font-size: 25px;
+}
+.a101{
+    text-decoration: none;
+    color: black;
+}
+.grid-item:hover{
+    background-color: blue;
+}
+#div9{
+    margin: 15px 0px;
+    height: 250px;
+    width: 60%;
+    border-radius: 5px;
+    background-color: rgb(156, 94, 11);
+}
+.p30{
+    color: white;
+    padding: 30px 80px;
+}
+#p31{
+    font-size: 30px;
+}
+#p32{
+    font-size: 20px;
+}
+#get{
+    list-style-type: none;
+    border-radius: 15px;
+    background-color: orange;
+    color: white;
+    width: 50%;
+    margin-left: 40px;
+    font-size: 20px;
+}
+#get:hover{
+    background-color: blue;
+}
